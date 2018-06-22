@@ -1,0 +1,1 @@
+gcc -o out/hello Source/Hellp.cpp -I
